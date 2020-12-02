@@ -12,5 +12,5 @@ function isleap(year){
     }
   }else{
     return "not leap year";
-  }  
+  }
 }
